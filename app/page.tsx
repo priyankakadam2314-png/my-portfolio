@@ -50,7 +50,7 @@ export default function Home() {
           sequence={[
             "Data Analyst", 2000,
             "SQL Developer", 2000,
-            "BI Specialist", 2000,
+            
           ]}
           wrapper="span"
           speed={50}
